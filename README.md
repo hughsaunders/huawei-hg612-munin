@@ -49,3 +49,4 @@ the munin plugins directory.  Or, copy and paste the following:
 the default username and password.  If this isn't what you want, simply modify
 the expect script.
 
+test url: http://google.com
